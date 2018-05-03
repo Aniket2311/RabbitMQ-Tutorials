@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Work\RMQDemo\src\main\java\com\company\Recv.java:3:1: package com.rabbitmq.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.rabbitmq.client.*;[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Work\RMQDemo\src\main\java\com\company\Send.java:3:1: package com.rabbitmq.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.rabbitmq.client.Channel;[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Work\RMQDemo\src\main\java\com\company\Send.java:4:1: package com.rabbitmq.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.rabbitmq.client.Connection;[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Work\RMQDemo\src\main\java\com\company\Send.java:5:1: package com.rabbitmq.client does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.rabbitmq.client.ConnectionFactory;[0m
